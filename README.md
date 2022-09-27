@@ -25,4 +25,6 @@
  * neighbourhood
  * noshow column
  
+ The notebook can be found in the [appointment-show-noshow-exploratory-data-analysis.ipynb](https://github.com/Outis09/Investiagating-medical-appointment-show-no-show/blob/main/appointment-show-noshow-exploratory-data-analysis.ipynb) file
+ 
  The dataset used can be accessed on [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
