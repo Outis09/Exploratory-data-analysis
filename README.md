@@ -25,8 +25,8 @@
  * neighbourhood
  * noshow column
  
- The notebook can be found in the [appointment-show-noshow-exploratory-data-analysis.ipynb](https://github.com/Outis09/Investiagating-medical-appointment-show-no-show/blob/main/appointment-show-noshow-exploratory-data-analysis.ipynb) file
+ The notebook can be found in the [appointment-show-noshow-exploratory-data-analysis.ipynb](https://github.com/Outis09/Investiagating-medical-appointment-show-no-show/blob/main/appointment-show-noshow-exploratory-data-analysis.ipynb) file.
  
  The Table of contents is not interactive in the notebook on GitHub but works in the [html](https://htmlpreview.github.io/?https://github.com/Outis09/Investiagating-medical-appointment-show-no-show/blob/main/appointment-show-no-show.html) file.
  
- The dataset used can be accessed on [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+ The dataset used can be accessed on [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments).
