@@ -4,7 +4,7 @@
  
  About 30% of 110527 patients make an appointment with their doctor and after receiving instructions, they do not show. Why? Is this affected by the characteristics of the patients?
  
- Using the data provided by the medical institution, I analyzed the effects of the independent variables(patients' characteristics) on the dependent variable(whether a patient showed or not) to see if they played a role in a patient not showing. I explored the probability of a patient showing up for their appointment given an independent variable. 
+ Using the data provided by the medical institution, I analyzed the effects of the independent variables(patients' characteristics) on the dependent variable(whether a patient showed or not) to see if they played a role in a patient not showing. Also to identify independent variables that can be used to predict whether a patient will show or not. I explored the probability of a patient showing up for their appointment given an independent variable. 
  
  The chracteristics of the patients I explored include;
  * gender of patient
